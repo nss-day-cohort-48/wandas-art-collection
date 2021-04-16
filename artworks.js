@@ -6,11 +6,12 @@
 
 const artCollection = [
   {
-    id: 1 /** Number */,
+    id: 1 /** Number */
     /**
      * The id is the unique identifier.
      * Also known as the primary key
-     **/ title: "Starry Night" /** String */,
+     **/,
+    title: "Starry Night" /** String */,
     artistName: "Van Gogh" /** String */,
     price: 400000.0 /** Number */,
     typeOfMedium: "Oils" /** String */,
