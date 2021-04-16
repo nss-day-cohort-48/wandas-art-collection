@@ -20,19 +20,15 @@ const artCollection = [
     dateAquired: "January 01, 2020" /** String */,
   },
   {
-    id: 2 /** Number */
-    /**
-     * The id is the unique identifier.
-     * Also known as the primary key
-     **/,
-    title: "The Persistence Of Memory" /** String */,
-    artistName: "Salvido Dali" /** String */,
-    price: 2.0 /** Number */,
-    typeOfMedium: "Oils" /** String */,
-    inStock: false /** Boolean */,
-    notes: "This one's aaaight!" /** String */,
-    dateAquired: "December 03, 1924" /** String */,
-  },
+    id: 2,
+    title: "The Persistence Of Memory",
+    artistName: "Salvido Dali",
+    price: 2.0,
+    typeOfMedium: "Oils",
+    inStock: false,
+    notes: "This one's aaaight!",
+    dateAquired: "December 03, 1924",
+  }
 ]
 
 
